@@ -1,0 +1,64 @@
+*{
+    margin: 10px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.a1{
+    border: solid 1px red;
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    position: relative;
+}
+.a2{
+    border: solid green;
+    width: 370px;
+    height: 370px;
+    background-color: green;
+    margin: auto;
+    position: relative;
+    margin-top: 10px;
+}
+.a3{
+    border: solid purple;
+    width: 340px;
+    height: 340px;
+    background-color: purple;
+    margin: auto;
+    position: relative;
+    margin-top: 10px;
+}.a4{
+    border: solid yellow;
+    width: 310px;
+    height: 310px;
+    background-color: yellow;
+    margin: auto;
+    position: relative;
+    margin-top: 10px;
+}.a5{
+    border: solid orange;
+    width: 280px;
+    height: 280px;
+    background-color: orange;
+    position: relative;
+    margin: auto;
+    margin-top: 10px;
+}
+.a6{
+    border: solid blue;
+    width: 250px;
+    height: 250px;
+    position: relative;
+    background-color: blue;
+    margin: auto;
+    margin-top: 10px;
+}
+.a7{
+    border: solid brown;
+    width: 200px;
+    height: 220px;
+    background-color: brown;
+    position:relative;
+    margin: auto;
+    margin-top: 10px;
+}
